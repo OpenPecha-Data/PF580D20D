@@ -1,0 +1,13 @@
+id: PF580D20D
+initial_creation_type: input
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: sa
+  volumes:
+    b48cbe387be94942bdb240d4841d78e2:
+      title: .txt
+      base_file: .txt.txt
+      work_id: WB4CBD713
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:20:48.735966'
+last_modified_at: '2022-03-01T21:20:48.735975'

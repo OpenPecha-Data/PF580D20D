@@ -1,0 +1,10 @@
+id: b1705f19e8264a3881303df6eb18fd81
+annotation_type: index
+revision: '00001'
+annotations:
+  b06330cdbf8d4dff9a19ba0f2f90e58e:
+    work_id: WB4CBD713
+    span:
+      vol: .txt
+      start: 0
+      end: 0
